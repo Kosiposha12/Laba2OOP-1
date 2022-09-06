@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Калькулятор расчёта возраста</string>
+    <string name="textdatanow">Текущая дата</string>
+</resources>
